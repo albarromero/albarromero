@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alba, I'm a software engineering student who is passionate about web development
+- 👋 Hi, I'm a software engineering student who is passionate about web development
 - 👀 I'm a tech and programming enthusiast
 - 🌱 I'm currently improving my Frontend skills with HTML, CSS and Javascript
 
