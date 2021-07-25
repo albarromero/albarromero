@@ -1,8 +1,10 @@
-# About me
+## About me
 > - 👋 **Hi, I'm a software engineering student who is passionate about programming and tech**
 > - 🌱 **I'm currently improving my Frontend skills with HTML, CSS and Javascript**
 
-# Skills & Tools
+<br>
+
+## Skills & Tools
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=white&color=EF5717)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=white&color=2472D0)
@@ -15,8 +17,16 @@
 ![VSCODE](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code&logoColor=white&color=1CA7E5)
 ![ECLIPSE](https://img.shields.io/badge/-Eclipse-000?&logo=eclipse&logoColor=white&color=04417A)
 
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albarromero&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## How to reach me
+[![Gmail](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:albarromero27@gmail.com)
+[![Twitter](https://img.shields.io/badge/-twitter-19B2E5?style=for-the-badge&logo=Twitter&logoColor=ffffff)](https://twitter.com/alba_rromero)
+[![Instagram](https://img.shields.io/badge/-instagram-DF1EF6?style=for-the-badge&logo=Instagram&logoColor=ffffff)](https://instagram.com/albarromero)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albarromero&layout=compact&)](https://github.com/albarromero/github-readme-stats)
 <!---
 albarromero/albarromero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
